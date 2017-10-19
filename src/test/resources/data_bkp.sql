@@ -1,0 +1,7 @@
+CREATE TABLE PERSON (
+    ID int,
+    FIRSTNAME varchar(20),
+    LASTNAME varchar(20)
+);
+
+INSERT INTO PERSON(ID, FIRSTNAME, LASTNAME) values(10, 'SUPER', 'MAN');
